@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.iar</groupId>
   <artifactId>iar_sdk_beta</artifactId>
-  <version>1.6.0</version>
+  <version>1.6.1</version>
   <name>iar-target-beta</name>
   <url>http://maven.apache.org</url>
   
